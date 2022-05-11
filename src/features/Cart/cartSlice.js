@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 
 const initialState = {
-    bread_name: '',
+    breadName: '',
     price: 0
 }
 
